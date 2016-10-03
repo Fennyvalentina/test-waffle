@@ -1,4 +1,4 @@
 # test-waffle
 Update FEATURE C
 
-Test lagi untuk update ke featue D
+Test lagi untuk update ke featue C
